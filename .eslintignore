@@ -1,0 +1,4 @@
+# 不用加入eslint的目录
+dist/*
+gulpfile.js
+source/lib/*

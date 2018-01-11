@@ -1,0 +1,17 @@
+{
+  "pages": ["pages/test/test"],
+  "subPackages": [
+    {
+      "root": "subpackages",
+      "pages": ["pages/test2/test2"]
+    }
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F9F9F9",
+    "navigationBarTitleText": "测试",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": "false"
+  },
+  "debug": true
+}
